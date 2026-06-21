@@ -4,7 +4,7 @@ Hi! I'm Hamoun, a computer engineering master's student focused on machine learn
 I'm currently learning how to build and deploy machine learning models at Farasoo Technical Institution in Tabriz.<br>
 <br><h3>Projects:</h3>
 - Autonomous navigation in grid environments using nature-inspired optimization algorithms.<br>- Designed 5 product catalogs for a polymer export company. 
-<br><br><h3>Fun fact:</h3>I'm also a German teacher.
+<br><br><h3>Job title</h3>I'm also a German teacher at Chitsazan language institute.
 
 
 ## 🌐 Socials:
