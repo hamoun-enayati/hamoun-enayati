@@ -5,8 +5,10 @@ I'm currently learning how to build and deploy machine learning models at Faraso
 <br><h3>Projects:</h3>
 - Autonomous navigation in grid environments using nature-inspired optimization algorithms.<br>- Designed 5 product catalogs for a polymer export company. 
 <br><br><h3>Job title</h3>I'm also a German teacher at Chitsazan language institute.
-
+<br>
+<br>
 You can find my full resume here:
+<br>
 https://hamoun-enayati.github.io/my-Resume-CSS/
 
 ## 🌐 Socials:
