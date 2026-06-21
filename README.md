@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Hamoun, a computer engineering master's student focused on machine learning and AI applications.<br>I will begin my PhD studies in September, continuing my research journey in computer engineering.<br><br>What I'm working on:<br>I'm currently learning how to build and deploy machine learning models at Farasoo Technical Institution in Tabriz.<br><br>Projects:<br>- Autonomous navigation in grid environments using nature-inspired optimization algorithms.<br>- Designed 5 product catalogs for a polymer export company. <br><br>Fun fact:<br>I'm also a German teacher.
+Hi! I'm Hamoun, a computer engineering master's student focused on machine learning and AI applications.<br>I will begin my PhD studies in September, continuing my research journey in computer engineering.<br><br><h3>What I'm working on:</h3><br>I'm currently learning how to build and deploy machine learning models at Farasoo Technical Institution in Tabriz.<br><br>Projects:<br>- Autonomous navigation in grid environments using nature-inspired optimization algorithms.<br>- Designed 5 product catalogs for a polymer export company. <br><br>Fun fact:<br>I'm also a German teacher.
 
 
 ## 🌐 Socials:
