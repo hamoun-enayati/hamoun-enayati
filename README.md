@@ -2,6 +2,7 @@
 Hi! I'm Hamoun, a computer engineering master's student focused on machine learning and AI applications.<br>I will begin my PhD studies in September, continuing my research journey in computer engineering.<br><br>
 <h3>What I'm working on:</h3>
 I'm currently learning how to build and deploy machine learning models at Farasoo Technical Institution in Tabriz.<br>
+I'm also learning how to build AI Agents.
 <br><h3>Projects:</h3>
 - Autonomous navigation in grid environments using nature-inspired optimization algorithms<br>- Designed 5 product catalogs for a polymer export company
 <br><br><h3>Job title</h3>I'm a German teacher at Chitsazan language institute.
